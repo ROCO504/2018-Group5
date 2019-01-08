@@ -1,0 +1,12 @@
+This is the basic overview file of the different iterations of code.
+
+Constant Speed - Test File to move the servos using the arduino at a constant speed
+               -- Used to test the driver circuit was correct
+               
+Constant Speed Testing - See above
+
+PotentControl - Controlling a singular digit using the connected potentiometer
+
+PotentiometerFollowAll4WorkingEdit - Edit of the PotentControl File, repetition of code with different control pins
+                                   -- Used to control all 4 digits
+                                   -- Was intended for vacuum syringe, but torque was too low.
