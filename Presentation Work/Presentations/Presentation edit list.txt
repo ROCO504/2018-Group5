@@ -1,0 +1,27 @@
+Slide 1 TITLE
+Slide 2 Why
+	Hybrid/Soft/Hard
+	Explain pros/cons of each
+Slide 3 Project progress
+	Start from comparing hard grippers, hands and human hand
+Slide 4 Design key structure
+	Break down into parts
+		-Digit
+		-Base
+		-Pneumatics
+			-Air vs water
+			-Filter
+		-Electronics
+		-Code
+Slide 5 Design Progression
+	Digit Iterations
+	Base Iterations
+	Code Iterations
+Slide 6 Electronic Progression
+	Compare the motor strengths
+Slide 7 Project Development
+	Talk through what went right/wrong
+Slide 8 Numerical Data of testing jamming
+	Testing of different granuals vs journal articles
+Slide 9 Overall design at presentation
+	Picture talk about what it does
