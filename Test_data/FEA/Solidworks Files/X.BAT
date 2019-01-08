@@ -1,0 +1,10 @@
+C:\Users\lgrazier\Downloads\Digit2 skinny-Static 1
+C:\Users\lgrazier\Downloads\Digit2 skinny-Static 1
+C:\Users\lgrazier\Downloads\Digit2 Fat-Static 1
+C:\Users\lgrazier\Downloads\Digit2 Fat-Static 2
+C:\Users\lgrazier\Downloads\Digit2 Fat-Static 2
+C:\Users\lgrazier\Downloads\Digit2 Fat-Static 2
+C:\Users\lgrazier\Downloads\Digit2 Fat-Static 1
+C:\Users\lgrazier\Downloads\Digit2 Fat-Static 2
+C:\Users\lgrazier\Downloads\Digit2 skinny-Static 2
+C:\Users\lgrazier\Downloads\Digit2 skinny-Static 2
